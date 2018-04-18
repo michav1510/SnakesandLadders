@@ -1,0 +1,4 @@
+>> cd snakesandladders
+>> javac *.java
+>> cd ..
+>> java snakesandladders.GameMaster
